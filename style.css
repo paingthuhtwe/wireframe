@@ -1,0 +1,51 @@
+#top-bar {
+  border-bottom: 1px solid #9e9e9e;
+}
+#navbar,
+#nav {
+  border-bottom: 1px solid #9e9e9e;
+}
+#nav a:hover {
+  background-color: #9e9e9e;
+  color: white;
+}
+#nav .active {
+  background-color: #9e9e9e;
+  color: white;
+}
+#nav .active:hover {
+  background-color: white;
+  color: rgb(0, 132, 255);
+}
+#carousel {
+  height: 300px;
+}
+
+#slide01 {
+  background: url(images/slide01.png);
+  background-size: contain;
+}
+#slide02 {
+  background: url(images/slide02.png);
+  background-size: contain;
+}
+#slide03 {
+  background: url(images/slide03.png);
+  background-size: contain;
+}
+#card01 {
+  background: url(images/card01.jpg) no-repeat;
+  background-size: cover;
+}
+#card02 {
+  background: url(images/card02.jpg) no-repeat;
+  background-size: cover;
+}
+#card03 {
+  background: url(images/card03.webp) no-repeat;
+  background-size: cover;
+}
+#card04 {
+  background: url(images/card04.jpg) no-repeat;
+  background-size: cover;
+}
